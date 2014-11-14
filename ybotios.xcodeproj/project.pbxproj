@@ -38,6 +38,7 @@
 		4AE54FC31A162EF500DA905F /* ybotiosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ybotiosTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AE54FC81A162EF500DA905F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4AE54FC91A162EF500DA905F /* ybotiosTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ybotiosTests.swift; sourceTree = "<group>"; };
+		4AE54FD31A162F1A00DA905F /* ybot.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ybot.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 		4AE54FA31A162EF500DA905F = {
 			isa = PBXGroup;
 			children = (
+				4AE54FD31A162F1A00DA905F /* ybot.playground */,
 				4AE54FAE1A162EF500DA905F /* ybotios */,
 				4AE54FC61A162EF500DA905F /* ybotiosTests */,
 				4AE54FAD1A162EF500DA905F /* Products */,
